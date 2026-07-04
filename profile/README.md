@@ -16,5 +16,6 @@ Welcome to ShatterDev! A new game studio made by Pone, this game studio will try
 - luuuuuu
 
 
-### 📷 Guild Maker (they made the guild so that Pone wouldn't have to use his bricks):
+### 📷 Guild Maker:
+Made the polytoria [guild](https://polytoria.com/guilds/7455) to save Pone some bricks
 - InkoSquid

@@ -10,6 +10,8 @@ Welcome to [ShatterDev](https://polytoria.com/guilds/7455)! A new game studio ma
 - IcedWua [(@IcedLuau)](https://polytoria.com/u/IcedLuau)
 - [luuuuuu](https://polytoria.com/u/luuuuuu)
 
+### 🔴 Moderators:
+- [Crewmate](https://polytoria.com/u/Crewmate)
 
 ### 📷 Guild Maker:
 Made the polytoria guild to save Pone some bricks

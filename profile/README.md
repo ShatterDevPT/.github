@@ -6,7 +6,7 @@ Welcome to [ShatterDev](https://polytoria.com/guilds/7455)! A new game studio ma
 ### <img src="./tools.svg" alt="Tools" height="100%" /> Builders:
 - [fie](https://polytoria.com/u/fie)
 
-### 📝 Scripters:
+### <img src="./file-code.svg" alt="Tools" height="100%" /> Scripters:
 - IcedWua [(@IcedLuau)](https://polytoria.com/u/IcedLuau)
 - [luuuuuu](https://polytoria.com/u/luuuuuu)
 

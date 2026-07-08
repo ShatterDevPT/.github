@@ -1,6 +1,6 @@
 Welcome to [ShatterDev](https://polytoria.com/guilds/7455)! A new game studio made by Pone, this game studio will try to make the best games that they can do for polytoria players. This guild is a work in progress so there's not much right now, but there will be more in the future.
 
-###  ![Trophy](./trophy.svg) Leader:
+###  <img src="./trophy.svg" alt="Trophy" height="100%" /> Leader:
 - [Pone](https://polytoria.com/u/Pone)
 
 ### 🔨 Builders:

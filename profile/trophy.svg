@@ -1,14 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
   <style>
-    /* Default color for Light Mode (Dark Gray/Charcoal) */
     .theme-trophy {
-      fill: #24292f;
+      fill: #000;
     }
 
-    /* Color changes for Dark Mode (Gold / Yellow) */
     @media (prefers-color-scheme: dark) {
       .theme-trophy {
-        fill: #f1c40f;
+        fill: #fff;
       }
     }
   </style>

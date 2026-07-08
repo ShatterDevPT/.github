@@ -3,7 +3,7 @@ Welcome to [ShatterDev](https://polytoria.com/guilds/7455)! A new game studio ma
 ###  <img src="./trophy.svg" alt="Trophy" height="100%" /> Leader:
 - [Pone](https://polytoria.com/u/Pone)
 
-### 🔨 Builders:
+### <img src="./tools.svg" alt="Tools" height="100%" /> Builders:
 - [fie](https://polytoria.com/u/fie)
 
 ### 📝 Scripters:

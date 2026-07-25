@@ -9,6 +9,7 @@ Welcome to [ShatterDev](https://polytoria.com/guilds/7455)! A new game studio ma
 ### 📝 Scripters:
 - IcedWua [(@IcedLuau)](https://polytoria.com/u/IcedLuau)
 - [luuuuuu](https://polytoria.com/u/luuuuuu)
+- [EpikMartian](https://polytoria.com/u/EpikMartian)
 
 ### 🔴 Moderators:
 - [Crewmate](https://polytoria.com/u/Crewmate)
